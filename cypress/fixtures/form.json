@@ -1,0 +1,13 @@
+{
+  "first_name": "test",
+  "last_name": "user",
+  "email": "testuser@gmail.com",
+  "gender": "Female",
+  "mobile": "1234567890",
+  "dob": "01 October,1994",
+  "subject": "Physics",
+  "address": "test address",
+  "hobbies": "Reading",
+  "state": "Rajasthan",
+  "city": "Jaipur"
+}
