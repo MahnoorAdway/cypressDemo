@@ -35,7 +35,7 @@ const fillForm = () => {
     cy.get('div').contains('Select State').click({force: true})
     cy.get('div').contains(data.state).click()
     cy.get('div').contains('Select City').click({force: true})
-    cy.get('div').contains(data.city).click({force: true})
+    cy.get('#react-select-4-option-0').click({force: true})
     cy.get('button').contains('Submit').click()
   })
 }
